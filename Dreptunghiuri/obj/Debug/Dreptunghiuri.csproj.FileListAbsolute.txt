@@ -1,0 +1,24 @@
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\bin\Debug\Dreptunghiuri.exe
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\bin\Debug\Dreptunghiuri.pdb
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\ResolveAssemblyReference.cache
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.Form1.resources
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.Properties.Resources.resources
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.csproj.GenerateResource.Cache
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.exe
+D:\Aia3\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\bin\Debug\Dreptunghiuri.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\bin\Debug\Dreptunghiuri.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.Form1.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\4.12.2018\Dreptunghiuri\obj\Debug\Dreptunghiuri.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\Dreptunghiuri.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\Dreptunghiuri.pdb
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\bin\Debug\Dreptunghiuri.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\bin\Debug\Dreptunghiuri.pdb
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\Dreptunghiuri.Form1.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\Dreptunghiuri.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri\obj\Debug\Dreptunghiuri.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\bin\Debug\Dreptunghiuri concendrice.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\bin\Debug\Dreptunghiuri concendrice.pdb
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\Dreptunghiuri_concendrice.Form1.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\Dreptunghiuri_concendrice.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\Dreptunghiuri concendrice.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\Dreptunghiuri concendrice.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghiuri concendrice\Dreptunghiuri concendrice\obj\Debug\Dreptunghiuri concendrice.pdb

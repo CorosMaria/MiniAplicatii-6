@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\bin\Debug\Dreptunghi_sfera_diagonale.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\bin\Debug\Dreptunghi_sfera_diagonale.pdb
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\Dreptunghi_sfera_diagonale.Form1.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\Dreptunghi_sfera_diagonale.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\Dreptunghi_sfera_diagonale.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\Dreptunghi_sfera_diagonale.exe
+D:\MARIA\Programare\Aplicatii\Dreptunghi_sfera_diagonale\Dreptunghi_sfera_diagonale\obj\Debug\Dreptunghi_sfera_diagonale.pdb

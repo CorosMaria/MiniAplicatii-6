@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\Dreprunghiuri_imbricate_pe_3_coloane__while_.Form1.resources
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\Dreprunghiuri_imbricate_pe_3_coloane__while_.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\Dreprunghiuri imbricate pe 3 coloane (while).csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\bin\Debug\Dreprunghiuri imbricate pe 3 coloane (while).exe
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\bin\Debug\Dreprunghiuri imbricate pe 3 coloane (while).pdb
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\Dreprunghiuri imbricate pe 3 coloane (while).exe
+D:\MARIA\Programare\Aplicatii\Dreprunghiuri imbricate pe 3 coloane (while)\Dreprunghiuri imbricate pe 3 coloane (while)\obj\Debug\Dreprunghiuri imbricate pe 3 coloane (while).pdb
